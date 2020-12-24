@@ -1,10 +1,10 @@
 # Formulário de cadastro
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/issues/MuriloM676/FormCadastro)
-![GitHub language count](https://img.shields.io/github/forks/MuriloM676/FormCadastro)
-![GitHub forks](https://img.shields.io/github/stars/MuriloM676/FormCadastro)
-![Bitbucket open issues](https://img.shields.io/github/license/MuriloM676/FormCadastro)
+![GitHub repo size](https://img.shields.io/github/license/MuriloM676/FormCadastro?style=flat-square)
+![GitHub language count](https://img.shields.io/github/issues/MuriloM676/FormCadastro?style=flat-square)
+![GitHub forks](https://img.shields.io/github/stars/MuriloM676/FormCadastro?style=flat-square)
+![Bitbucket open issues](https://img.shields.io/github/forks/MuriloM676/FormCadastro?style=flat-square)
 
 <img src="img/show.png" alt="exemplo imagem">
 
